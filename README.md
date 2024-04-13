@@ -11,13 +11,13 @@ Este projeto faz parte da disciplina tal Projeto Integrador 2, onde estamos abor
 ## DADOS PESSOAIS
 
 Nome: Júnior Almeida das Chagas\
-Idade: 17\
-E-mail: junioralmeida435714@gmail.com\
+Idade: 16\
+E-mail: junioralmeida435714@gmail.com
 
 ## FORMAÇÃO ACADÊMICA
 
 Ensino Fundamental concluido em 2021 - Escola GM3.\
-Autualmente cursa Técnico em Informática - Instituto Federal do Amazonas Campus Eirunepé\
+Autualmente cursa Técnico em Informática - Instituto Federal do Amazonas Campus Eirunepé
 
 ## FORMAÇÃO COMPLEMENTAR
 
