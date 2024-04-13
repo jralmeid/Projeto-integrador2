@@ -21,30 +21,30 @@ Autualmente cursa Técnico em Informática - Instituto Federal do Amazonas Campu
 
 ## FORMAÇÃO COMPLEMENTAR
 
-1. Palestra - Desenvolvimento científico e tecnológico: um marco nas sociedades contemporâneas
+1. Palestra - Desenvolvimento científico e tecnológico: um marco nas sociedades contemporâneas\
 Carga horária: 1 horas.
 
-2. EXPOSIÇÃO -  FILME - O jogo da imitação
+2. EXPOSIÇÃO -  FILME - O jogo da imitação\
 Carga horária: 2 hora. 
 
-3. EXPOSIÇÃO - Oficina/Workshop - Noções básicas de operação de tratores agrícolas
+3. EXPOSIÇÃO - Oficina/Workshop - Noções básicas de operação de tratores agrícolas\
 Carga horária: 4 horas.
 
-4. Oficina/Workshop - Pilotagem de drone e Realidade virtual
+4. Oficina/Workshop - Pilotagem de drone e Realidade virtual\
 Carga horária: 4 horas.
 
-5. EXPOSIÇÃO -SEMANA DE PESQUISA E EXTENSÃO - IFAM CAMPUS EIRUNEPÉ 
+5. EXPOSIÇÃO - SEMANA DE PESQUISA E EXTENSÃO - IFAM CAMPUS EIRUNEPÉ \
 Carga horária: 40 horas.
 
-6. Palestra - Desenvolvimento científico e tecnológico: um marco nas sociedades contemporâneas
+6. Palestra - Desenvolvimento científico e tecnológico: um marco nas sociedades contemporâneas\
 Carga horária: 1 horas.
 
-7. Sessão de Painéis - Jornada Técnico Científica e Mostra de Extensão
+7. Sessão de Painéis - Jornada Técnico Científica e Mostra de Extensão\
 Carga horária: 4 horas.
 
-8. Oficina/Workshop - Criação de abelhas sem ferrão
+8. Oficina/Workshop - Criação de abelhas sem ferrão\
 Carga horária: 4 horas.
 
-9. EXPOSIÇÃO - Exposições: Geladeira Literária, A Fascinante Diversidade do Reino Animal e Jogos Matemáticos
+9. EXPOSIÇÃO - Exposições: Geladeira Literária, A Fascinante Diversidade do Reino Animal e Jogos Matemáticos\
 Carga horária: 3 horas.
 
