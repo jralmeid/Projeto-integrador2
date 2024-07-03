@@ -17,7 +17,7 @@ E-mail: junioralmeida435714@gmail.com
 ## FORMAÇÃO ACADÊMICA
 
 Ensino Fundamental concluido em 2021 - Escola GM3.\
-Autualmente cursa Técnico em Informática - Instituto Federal do Amazonas Campus Eirunepé
+Autualmente cursa Técnico de Nível em Informática na Forma Integrada - Instituto Federal do Amazonas Campus Eirunepé
 
 ## FORMAÇÃO COMPLEMENTAR
 
