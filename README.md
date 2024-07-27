@@ -22,29 +22,45 @@ Autualmente cursa Técnico de Nível Médio em Informática na Forma Integrada -
 ## FORMAÇÃO COMPLEMENTAR
 
 1. Palestra - Desenvolvimento científico e tecnológico: um marco nas sociedades contemporâneas\
-Carga horária: 1 horas.
+Carga horária: 1 horas.\
+[Certificado referente à atividade](Certificado_2)
 
-2. EXPOSIÇÃO -  FILME - O jogo da imitação\
-Carga horária: 2 hora. 
+3. EXPOSIÇÃO -  FILME - O jogo da imitação\
+Carga horária: 2 hora.\
+[Certificado referente à atividade](Certificado_3) 
 
-3. EXPOSIÇÃO - Oficina/Workshop - Noções básicas de operação de tratores agrícolas\
-Carga horária: 4 horas.
+5. EXPOSIÇÃO - Oficina/Workshop - Noções básicas de operação de tratores agrícolas\
+Carga horária: 4 horas.\
+[Certificado referente à atividade](Certificado_4) 
 
-4. Oficina/Workshop - Pilotagem de drone e Realidade virtual\
-Carga horária: 4 horas.
+7. Oficina/Workshop - Pilotagem de drone e Realidade virtual\
+Carga horária: 4 horas.\
+[Certificado referente à atividade](Certificado_6) 
 
-5. EXPOSIÇÃO - SEMANA DE PESQUISA E EXTENSÃO - IFAM CAMPUS EIRUNEPÉ \
-Carga horária: 40 horas.
+9. EXPOSIÇÃO - SEMANA DE PESQUISA E EXTENSÃO - IFAM CAMPUS EIRUNEPÉ \
+Carga horária: 40 horas.\
+[Certificado referente à atividade](Certificado_1) 
 
-6. Palestra - Desenvolvimento científico e tecnológico: um marco nas sociedades contemporâneas\
-Carga horária: 1 horas.
+11. PARTICIPEI COMO BOLSISTA DA MONITORIA DE QUÍMICA - IFAM CAMPUS EIRUNEPÉ \
+Carga horária: 100 horas.\
+[Certificado referente à atividade](Certificado_10)
 
-7. Sessão de Painéis - Jornada Técnico Científica e Mostra de Extensão\
-Carga horária: 4 horas.
+13. Sessão de Painéis - Jornada Técnico Científica e Mostra de Extensão\
+Carga horária: 4 horas.\
+[Certificado referente à atividade](Certificado_5)
 
-8. Oficina/Workshop - Criação de abelhas sem ferrão\
-Carga horária: 4 horas.
+15. Oficina/Workshop - Criação de abelhas sem ferrão\
+Carga horária: 4 horas.\
+[Certificado referente à atividade](Certificado_7) 
 
-9. EXPOSIÇÃO - Exposições: Geladeira Literária, A Fascinante Diversidade do Reino Animal e Jogos Matemáticos\
-Carga horária: 3 horas.
+16. EXPOSIÇÃO - Exposições: Geladeira Literária, A Fascinante Diversidade do Reino Animal e Jogos Matemáticos\
+Carga horária: 3 horas.\
+[Certificado referente à atividade](Certificado_9)
 
+10. PARTICIPEI DO  PROGRAMA INSTITUCIONAL DE BOLSAS DE EXTENSÃO - PIBEX\
+Carga horária: 20 horas.\
+[Certificado referente à atividade](Certificado_11)
+
+11. PARTICIPEI DA PALESTRA INTITULADA “PREVENÇÃO DA GRAVIDEZ NA ADOLESCÊNCIA”\
+Carga horária: 2 horas.\
+[Certificado referente à atividade](Certificado_12)
